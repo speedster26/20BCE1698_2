@@ -1,0 +1,7 @@
+#navbar ul{
+    padding-bottom: 5px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: space-between;
+    margin: 5px 0;
+}
